@@ -1,69 +1,51 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# MyWeather
+# 🌤️ MyWeather
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
+**MyWeather** is a simple and responsive Angular application that allows users to check real-time weather data for any city using a public weather API.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🔗 Live Demo
 
-```bash
-ng serve
-```
+🌐 [Click here to view the app on Vercel](https://myweather.vercel.app)
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 🚀 Features
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- 🌍 Search weather by city name
+- 🌡️ Display temperature, weather condition, humidity, and wind speed
+- 📱 Responsive and mobile-friendly UI
+- 🔌 Uses a free weather API (like OpenWeatherMap)
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 🛠️ Built With
 
-```bash
-ng generate --help
-```
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Vercel](https://vercel.com/) – for deployment
 
-## Building
+---
+## 🌐 API Used
+- OpenWeatherMap API
 
-To build the project run:
+--- 
 
-```bash
-ng build
-```
+## 📸 Screenshots
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+### 🔹 Home Page
 
-## Running unit tests
+![Home Page](./screenshots/homepage.png)
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+### 🔹 Weather Result
 
-```bash
-ng test
-```
+![Result Page](./screenshots/result.png)
 
-## Running end-to-end tests
+---
 
-For end-to-end (e2e) testing, run:
+## 🧑‍💻 Author
+- Shivam Pisal – [GitHub](https://myweather.vercel.app)
 
-```bash
-ng e2e
-```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-=======
-# MyWeather
->>>>>>> 83ffae29042bdab4ea061fffe21d94592bf95dd7
-=======
-# MyWeather App
-
-This is an Angular project for checking the weather using a free API.
->>>>>>> 2812ce31b5fb96887a7653b2e7851141ec4bf9f5
