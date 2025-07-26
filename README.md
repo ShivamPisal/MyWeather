@@ -48,6 +48,6 @@
 ---
 
 ## 🧑‍💻 Author
-- Shivam Pisal – [GitHub](https://myweather.vercel.app)
+- Shivam Pisal – [GitHub](https://github.com/ShivamPisal)
 
 
