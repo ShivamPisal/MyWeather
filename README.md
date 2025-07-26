@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MyWeather
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
@@ -61,3 +62,8 @@ For more information on using the Angular CLI, including detailed command refere
 =======
 # MyWeather
 >>>>>>> 83ffae29042bdab4ea061fffe21d94592bf95dd7
+=======
+# MyWeather App
+
+This is an Angular project for checking the weather using a free API.
+>>>>>>> 2812ce31b5fb96887a7653b2e7851141ec4bf9f5

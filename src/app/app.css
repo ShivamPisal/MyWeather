@@ -1,0 +1,84 @@
+
+.container {
+  background: #fff;
+  border-radius: 15px;
+  padding: 30px;
+  max-width: 500px;
+  margin: 30px auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  padding: 10px;
+  width: calc(100% - 130px);
+  margin-bottom: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #0077cc;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.weather-icon {
+  width: 80px;
+  height: 80px;
+}
+
+.forecast {
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+  background: #e4eeff;
+}
+
+.forecast-day {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 15px;
+  text-align: center;
+}
+
+@media (min-width: 600px) {
+  .input-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  input {
+    width: 70%;
+    margin-right: 10px;
+    margin-bottom: 0;
+  }
+
+  button {
+    width: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 20px;
+    margin: 15px;
+  }
+
+  .forecast-day {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .weather-icon {
+    width: 50px;
+    height: 50px;
+  }
+}
