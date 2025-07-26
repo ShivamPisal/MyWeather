@@ -21,11 +21,13 @@
 
 ## 🛠️ Built With
 
-- [Angular](https://angular.io/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Vercel](https://vercel.com/) – for deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 ## 🌐 API Used
