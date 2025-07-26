@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the app on Vercel](https://myweather.vercel.app)
+🌐 [Click here to view the app on Vercel](https://myweather-nine.vercel.app/)
 
 ---
 
