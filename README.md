@@ -37,11 +37,11 @@
 
 ### 🔹 Home Page
 
-![Home Page](./screenshots/homepage.png)
+![Home Page](./src/screenshots/homepage.png)
 
 ### 🔹 Weather Result
 
-![Result Page](./screenshots/result.png)
+![Result Page](./src/screenshots/result.png)
 
 ---
 
